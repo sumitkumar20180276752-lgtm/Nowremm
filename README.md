@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Nowremm</title>
+  Nowremm
   <meta charset="UTF-8">
   <meta name="description" content="Nowremm - Stay updated on current affairs, entertainment, and technology.">
   <link rel="stylesheet" href="style.css">
